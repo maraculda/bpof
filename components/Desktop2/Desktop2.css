@@ -1,0 +1,11 @@
+.desktop-2 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  min-height: 982px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1512px;
+}
+

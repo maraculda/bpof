@@ -1,0 +1,8 @@
+.laptop-tablet {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 920px;
+  width: 1287px;
+}
+

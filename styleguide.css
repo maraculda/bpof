@@ -1,0 +1,18 @@
+:root { 
+  --black: #000000;
+  --blueberry: #4b90fd;
+  --mist-gray: #c4c4c4;
+  --white: #ffffff;
+ 
+  --font-size-l: 35px;
+  --font-size-m: 30px;
+  --font-size-s: 25px;
+  --font-size-xl: 45px;
+  --font-size-xs: 23px;
+  --font-size-xxs: 20px;
+  --font-size-xxxs: 18px;
+ 
+  --font-family-courier-bold: "Courier-Bold", Helvetica;
+  --font-family-courier-regular: "Courier-Regular", Helvetica;
+  --font-family-phosphate-solid: "Phosphate-Solid", Helvetica;
+}
